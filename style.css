@@ -1,0 +1,280 @@
+.pd1 {
+    display: flex;
+
+
+
+}
+
+.cd1 {
+
+    width: 400px;
+    padding-left: 350px;
+
+
+}
+
+.mo {
+    color: orange;
+}
+
+.pic1 {
+    height: 600px;
+    width: 1470px;
+}
+
+.pd2 {
+    background-color: lightgrey;
+
+    display: flex;
+    height: 400px;
+
+
+}
+
+.pd2_cd1 {
+    margin-left: 250px;
+    color: orange;
+    margin-top: 70px;
+}
+
+.pd2_cd2 {
+    margin-left: 250px;
+    color: orange;
+    margin-top: 70px;
+}
+
+.pd2_cd3 {
+    margin-left: 270px;
+    color: orange;
+    margin-top: 70px;
+}
+
+.pd3 {
+    bottom: 400px;
+}
+
+.pd3_cd1 {
+    position: absolute;
+    top: 350px;
+    margin-left: 300px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+
+}
+
+.pd3_cd2 {
+    position: absolute;
+    margin-left: 300px;
+    top: 400px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    color: white;
+
+}
+
+.pd3_cd3 {
+    position: absolute;
+    margin-left: 300px;
+    top: 500px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: white;
+}
+
+.signup{
+    position: absolute;
+    width: 300px;
+    height: 450px;
+    margin-left: 1100px;
+    top: 110px;
+    background-color: orange;
+    border-radius: 15px solid;
+
+
+}
+.h77{
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+
+}
+.h78{
+    text-align: center;
+    color: white;
+}
+form input{
+    width: 80%;
+    padding: 7px;
+    border:none;
+    border: 1px solid orange;
+    margin-left: 20px;
+
+
+
+
+}
+
+.button1{
+    margin-left: 95px;
+    margin-top: 10px;
+   
+    
+}
+
+.step{
+    display: flex;
+}
+.s1{
+   position: absolute;
+   top: 890px;
+    margin-left: 260px;
+
+}
+.s2{
+    position: absolute;
+    top: 890px;
+    margin-left: 680px;
+
+}
+.s3{
+    position: absolute;
+    top: 890px;
+    margin-left: 1070px;
+
+}
+
+.mwpc1 {
+    margin-left: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+.pd4{
+  
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -350px;
+}
+.pd5 {
+    background-color: orange;
+
+    display: flex;
+    height: 400px;
+    
+
+
+}
+.pd6{
+color: white;
+    margin-left: 320px;
+    margin-top: 60px}
+
+.pd7{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+
+
+}    
+.b1{
+    margin-left: 370px;
+    border: 1px solid black;
+    width: 97px;
+    background-color: black;
+    
+}
+.pic3 {
+    margin-left: 800px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.pd8{
+    position: absolute;
+    margin-left: 210px;
+    margin-bottom: ;
+    top: 1900px;
+    
+}
+.pd10 {
+    background-color: orange;
+
+    display: flex;
+    height: 400px;
+    
+
+
+}
+.pd11{
+color: white;
+    margin-left: 320px;
+    margin-top: 60px}
+
+.pd12{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+
+
+
+.pd13{
+    display: flex;
+    height: 400px;
+    background-color: lightgray;
+}
+
+.pd17{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 140px;
+    font-family: sans-serif;
+}
+.pd18{
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 140px;
+    font-family: sans-serif;
+}
+.pd15{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 65px;
+   
+}
+.pd14{
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 65px;
+}
+.pd20{
+    margin-left: 525px;
+}
+
+
+button{
+background-color:  #0b0b0b;
+border: none;
+color: white;
+padding-left: 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+width: 255px;
+cursor: pointer;
+margin-left: 20px;
+margin-top: 30px;
+height: 70px;
+
+}
+.b6{
+
+    margin-left: 300px;
+}
